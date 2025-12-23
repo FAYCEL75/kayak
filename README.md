@@ -1,5 +1,5 @@
 # Bloc 1 — Kayak (France Top-35) — **STRICT REAL DATA**
-
+Ce projet se trouve ici : https://github.com/FAYCEL75/kayak
 Ce projet suit **à la lettre** le brief :
 - **Scrape data from destinations** → Nominatim pour géocoder les 35 villes
 - **Get weather data** → OpenWeather One Call (7 jours) — nécessite **OWM_API_KEY**
