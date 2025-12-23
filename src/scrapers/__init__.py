@@ -1,0 +1,1 @@
+# Permet d'utiliser "from scrapers.booking_scraper import scrape_booking"

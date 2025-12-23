@@ -1,0 +1,246 @@
+﻿city,temp_day,rain
+Mont Saint Michel,14.3,0.0
+Mont Saint Michel,11.0,0.6
+Mont Saint Michel,9.8,0.3
+Mont Saint Michel,8.7,5.0
+Mont Saint Michel,7.3,3.9
+Mont Saint Michel,8.5,0.0
+Mont Saint Michel,6.5,4.8
+St Malo,2.4,0.0
+St Malo,2.1,0.0
+St Malo,4.7,0.3
+St Malo,6.0,0.0
+St Malo,2.2,10.5
+St Malo,2.4,0.0
+St Malo,5.5,0.0
+Bayeux,13.2,0.8
+Bayeux,10.9,0.2
+Bayeux,8.2,1.9
+Bayeux,8.0,6.6
+Bayeux,6.2,1.8
+Bayeux,8.2,1.5
+Bayeux,5.8,2.4
+Le Havre,13.9,0.0
+Le Havre,10.5,0.0
+Le Havre,10.3,4.8
+Le Havre,9.6,16.5
+Le Havre,7.6,0.9
+Le Havre,8.8,0.0
+Le Havre,8.7,4.5
+Rouen,13.4,0.1
+Rouen,10.3,0.4
+Rouen,8.3,2.0
+Rouen,7.9,6.7
+Rouen,7.7,0.2
+Rouen,7.6,0.0
+Rouen,6.1,3.3
+Paris,13.1,0.0
+Paris,10.1,0.0
+Paris,9.3,0.0
+Paris,9.1,2.2
+Paris,8.0,1.3
+Paris,6.9,0.0
+Paris,4.5,0.3
+Amiens,12.9,7.7
+Amiens,9.6,0.1
+Amiens,6.8,2.5
+Amiens,6.3,9.7
+Amiens,5.2,0.6
+Amiens,6.2,0.0
+Amiens,1.6,0.0
+Lille,12.8,0.7
+Lille,9.0,2.3
+Lille,7.6,3.8
+Lille,6.5,10.9
+Lille,5.4,1.1
+Lille,5.1,0.0
+Lille,1.9,0.0
+Strasbourg,11.4,1.3
+Strasbourg,10.5,4.7
+Strasbourg,6.7,0.0
+Strasbourg,6.9,0.6
+Strasbourg,6.8,2.4
+Strasbourg,4.9,0.0
+Strasbourg,1.7,0.0
+Chateau du Haut Koenigsbourg,9.9,4.2
+Chateau du Haut Koenigsbourg,8.1,3.0
+Chateau du Haut Koenigsbourg,2.8,0.0
+Chateau du Haut Koenigsbourg,4.9,0.6
+Chateau du Haut Koenigsbourg,2.8,2.4
+Chateau du Haut Koenigsbourg,0.7,1.0
+Chateau du Haut Koenigsbourg,-0.9,0.5
+Colmar,11.8,6.1
+Colmar,9.9,1.8
+Colmar,6.4,0.0
+Colmar,7.5,0.4
+Colmar,7.0,0.8
+Colmar,4.3,0.3
+Colmar,2.2,0.0
+Eguisheim,12.9,6.4
+Eguisheim,10.1,3.6
+Eguisheim,6.2,0.0
+Eguisheim,7.9,0.4
+Eguisheim,7.0,1.1
+Eguisheim,4.1,0.3
+Eguisheim,2.2,0.0
+Besancon,12.6,10.2
+Besancon,10.9,7.7
+Besancon,6.4,0.0
+Besancon,7.6,6.1
+Besancon,4.2,7.1
+Besancon,5.1,1.5
+Besancon,3.2,0.0
+Dijon,11.0,4.9
+Dijon,10.8,2.8
+Dijon,8.0,0.0
+Dijon,5.9,2.7
+Dijon,5.3,1.5
+Dijon,5.4,0.0
+Dijon,0.6,0.0
+Annecy,11.6,17.4
+Annecy,10.1,2.5
+Annecy,6.3,0.0
+Annecy,6.8,1.0
+Annecy,5.5,6.5
+Annecy,5.4,0.0
+Annecy,4.1,0.0
+Grenoble,14.8,10.7
+Grenoble,12.4,0.6
+Grenoble,7.4,0.0
+Grenoble,9.2,0.1
+Grenoble,7.9,1.7
+Grenoble,5.8,0.0
+Grenoble,2.3,0.0
+Lyon,15.7,15.2
+Lyon,12.0,1.1
+Lyon,8.0,0.0
+Lyon,8.1,2.1
+Lyon,6.1,0.9
+Lyon,5.5,0.9
+Lyon,3.3,0.0
+Gorges du Verdon,13.1,33.6
+Gorges du Verdon,12.0,0.0
+Gorges du Verdon,12.2,0.0
+Gorges du Verdon,8.5,0.0
+Gorges du Verdon,5.9,1.5
+Gorges du Verdon,7.9,0.0
+Gorges du Verdon,9.6,0.0
+Bormes les Mimosas,17.9,9.2
+Bormes les Mimosas,16.8,0.0
+Bormes les Mimosas,16.3,0.0
+Bormes les Mimosas,11.4,0.0
+Bormes les Mimosas,10.8,0.0
+Bormes les Mimosas,9.5,0.0
+Bormes les Mimosas,10.1,0.0
+Cassis,18.8,6.9
+Cassis,17.2,0.0
+Cassis,15.4,0.0
+Cassis,10.0,0.0
+Cassis,10.3,0.0
+Cassis,11.5,0.0
+Cassis,8.4,0.0
+Marseille,19.1,8.1
+Marseille,17.1,0.0
+Marseille,13.3,0.0
+Marseille,10.0,0.0
+Marseille,8.9,0.0
+Marseille,10.5,0.0
+Marseille,7.9,0.0
+Aix en Provence,17.1,1.6
+Aix en Provence,16.4,0.0
+Aix en Provence,14.0,0.0
+Aix en Provence,9.4,0.1
+Aix en Provence,9.1,2.0
+Aix en Provence,10.3,0.0
+Aix en Provence,6.5,0.0
+Avignon,18.8,2.4
+Avignon,16.7,0.0
+Avignon,9.8,0.0
+Avignon,9.8,0.1
+Avignon,10.4,0.2
+Avignon,9.0,0.0
+Avignon,7.1,0.0
+Uzes,19.0,3.2
+Uzes,17.1,0.0
+Uzes,11.2,0.0
+Uzes,9.5,0.1
+Uzes,9.6,0.2
+Uzes,10.1,0.0
+Uzes,7.8,0.0
+Nimes,19.6,1.1
+Nimes,17.4,0.0
+Nimes,12.0,0.0
+Nimes,9.7,0.1
+Nimes,10.6,0.2
+Nimes,10.3,0.0
+Nimes,8.4,0.0
+Aigues Mortes,19.9,0.2
+Aigues Mortes,18.7,0.0
+Aigues Mortes,13.4,0.0
+Aigues Mortes,10.3,0.0
+Aigues Mortes,11.4,0.0
+Aigues Mortes,11.3,0.0
+Aigues Mortes,9.1,0.0
+Saintes Maries de la mer,18.1,0.4
+Saintes Maries de la mer,17.9,0.0
+Saintes Maries de la mer,13.1,0.0
+Saintes Maries de la mer,10.4,0.0
+Saintes Maries de la mer,10.4,0.0
+Saintes Maries de la mer,11.3,0.0
+Saintes Maries de la mer,9.1,0.0
+Collioure,20.0,0.0
+Collioure,18.7,0.0
+Collioure,14.3,0.0
+Collioure,13.4,0.0
+Collioure,10.5,2.4
+Collioure,7.6,0.0
+Collioure,9.3,0.0
+Carcassonne,19.0,0.0
+Carcassonne,15.8,0.0
+Carcassonne,9.8,0.0
+Carcassonne,9.7,1.9
+Carcassonne,8.0,0.5
+Carcassonne,6.2,0.0
+Carcassonne,7.3,0.0
+Ariege,9.7,0.0
+Ariege,7.1,15.7
+Ariege,2.4,3.6
+Ariege,6.1,10.2
+Ariege,0.9,6.5
+Ariege,-0.5,11.2
+Ariege,1.5,2.0
+Toulouse,18.1,0.0
+Toulouse,15.2,0.0
+Toulouse,9.8,0.0
+Toulouse,10.8,1.5
+Toulouse,8.0,1.4
+Toulouse,6.9,0.6
+Toulouse,7.6,0.0
+Montauban,17.4,0.7
+Montauban,14.3,0.0
+Montauban,8.6,0.0
+Montauban,9.0,3.3
+Montauban,8.1,0.0
+Montauban,7.5,0.3
+Montauban,7.2,0.0
+Biarritz,18.6,0.0
+Biarritz,15.5,10.9
+Biarritz,10.9,0.0
+Biarritz,12.8,7.9
+Biarritz,9.8,17.5
+Biarritz,9.6,3.1
+Biarritz,12.6,2.1
+Bayonne,19.5,0.0
+Bayonne,16.0,8.5
+Bayonne,10.9,0.0
+Bayonne,12.9,7.9
+Bayonne,9.9,17.5
+Bayonne,9.7,3.1
+Bayonne,12.7,2.1
+La Rochelle,15.4,16.8
+La Rochelle,11.6,0.0
+La Rochelle,8.9,0.0
+La Rochelle,11.8,4.8
+La Rochelle,8.1,0.0
+La Rochelle,8.8,0.0
+La Rochelle,13.7,5.3
